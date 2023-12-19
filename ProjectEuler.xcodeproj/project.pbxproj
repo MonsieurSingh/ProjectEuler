@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		950285BC2B31529700E4A64B /* 001.c in Sources */ = {isa = PBXBuildFile; fileRef = 950285B82B313AC100E4A64B /* 001.c */; };
+		950285BE2B31564200E4A64B /* 002.c in Sources */ = {isa = PBXBuildFile; fileRef = 950285BD2B31564200E4A64B /* 002.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		950285A72B3135A300E4A64B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		950285B72B313AC100E4A64B /* common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
 		950285B82B313AC100E4A64B /* 001.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 001.c; sourceTree = "<group>"; };
+		950285BD2B31564200E4A64B /* 002.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 002.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				950285B72B313AC100E4A64B /* common.h */,
+				950285BD2B31564200E4A64B /* 002.c */,
 				950285B82B313AC100E4A64B /* 001.c */,
 			);
 			path = Solutions;
@@ -131,7 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				950285BC2B31529700E4A64B /* 001.c in Sources */,
+				950285BE2B31564200E4A64B /* 002.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

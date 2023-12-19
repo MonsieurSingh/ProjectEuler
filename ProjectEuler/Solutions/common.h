@@ -9,5 +9,6 @@
 #define common_h
 
 #include <stdio.h>
+#include <stdlib.h> 
 
 #endif /* common_h */
