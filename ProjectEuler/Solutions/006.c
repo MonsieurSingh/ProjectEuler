@@ -1,5 +1,5 @@
 //
-//  004.c
+//  006.c
 //  ProjectEuler
 //
 //  Created by Devjyot Singh on 19/12/2023.
