@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9512E5322B32EF9B00BEAC51 /* 005.c in Sources */ = {isa = PBXBuildFile; fileRef = 9512E5312B32EF9A00BEAC51 /* 005.c */; };
+		9512E5342B33EA1E00BEAC51 /* 007.c in Sources */ = {isa = PBXBuildFile; fileRef = 9512E5332B33EA1E00BEAC51 /* 007.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +30,7 @@
 		950285BD2B31564200E4A64B /* 002.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 002.c; sourceTree = "<group>"; };
 		9512E52F2B32C8D500BEAC51 /* 004.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 004.c; sourceTree = "<group>"; };
 		9512E5312B32EF9A00BEAC51 /* 005.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 005.c; sourceTree = "<group>"; };
+		9512E5332B33EA1E00BEAC51 /* 007.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 007.c; sourceTree = "<group>"; };
 		9538F6A42B31BDB600FA0D41 /* 003.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 003.c; sourceTree = "<group>"; };
 		9538F6A62B31CB3B00FA0D41 /* 006.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 006.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -80,6 +81,7 @@
 				9512E52F2B32C8D500BEAC51 /* 004.c */,
 				9512E5312B32EF9A00BEAC51 /* 005.c */,
 				9538F6A62B31CB3B00FA0D41 /* 006.c */,
+				9512E5332B33EA1E00BEAC51 /* 007.c */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -141,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9512E5322B32EF9B00BEAC51 /* 005.c in Sources */,
+				9512E5342B33EA1E00BEAC51 /* 007.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
